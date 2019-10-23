@@ -1,0 +1,8 @@
+prefix=/home/shijin/Final_UGV/devel
+
+Name: UGV
+Description: Description of UGV
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shijin/Final_UGV/devel/lib 
+Requires: 
